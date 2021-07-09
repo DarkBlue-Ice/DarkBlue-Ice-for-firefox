@@ -10,7 +10,7 @@
 
 ### Liked? Give me stars! 
 
-![b](https://cdn.discordapp.com/attachments/774302890142597160/863094593448574986/unknown.png)
+![b](https://cdn.discordapp.com/attachments/774302890142597160/863103066978517002/unknown.png)
 
 ---
 

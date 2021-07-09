@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
-  "name": "Nord DarkIce",
+  "version": "3.0",
+  "name": "BlueDark Ice",
   "theme": {
     "images": {
       "additional_backgrounds": [
@@ -17,15 +17,15 @@
       ]
     },
     "colors": {
-      "toolbar": "rgb(59, 66, 82)",
-      "toolbar_text": "rgb(236, 239, 244)",
-      "frame": "rgb(46, 52, 64)",
-      "tab_background_text": "rgb(216, 222, 233)",
-      "toolbar_field": "rgb(46, 52, 64)",
-      "toolbar_field_text": "rgb(236, 239, 244)",
+      "toolbar": "rgb(57, 64, 77)",
+      "toolbar_text": "rgb(219, 228, 245)",
+      "frame": "rgb(42, 47, 59)",
+      "tab_background_text": "rgb(205, 218, 243)",
+      "toolbar_field": "rgb(42, 47, 59)",
+      "toolbar_field_text": "rgb(219, 228, 245)",
       "tab_line": "rgb(59, 66, 82)",
-      "popup": "rgb(67, 76, 94)",
-      "popup_text": "rgb(236, 239, 244)",
+      "popup": "rgb(57, 64, 77)",
+      "popup_text": "rgb(219, 228, 245)",
       "tab_loading": "rgb(59, 66, 82)"
     }
   }

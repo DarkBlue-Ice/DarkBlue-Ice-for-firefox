@@ -4,7 +4,7 @@
 
 ---
 
-### Add to your firefox: https://addons.mozilla.org/en-US/firefox/addon/bluedark-ice/
+### Add to your firefox: https://addons.mozilla.org/en-US/firefox/addon/darkblue-ice/
 
 ---
 

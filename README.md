@@ -14,7 +14,7 @@
 
 ---
 
-### Color Palette 
+## Color Palette 
 
 ### See more [DarkBlue Ice](https://github.com/Dedsd/DarkBlue-Ice)
 

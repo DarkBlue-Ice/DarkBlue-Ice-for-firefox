@@ -1,6 +1,6 @@
 ## DarkBlue Ice
 ![a](https://addons.cdn.mozilla.net/user-media/version-previews/full/3855/3855353.svg?modified=1625847113)
-### A Beautiful theme for firefox with Dark blue and ice colors distributed in a harmonic way, which further enhances your browsing experience.
+### A Beautiful theme for firefox with dark blue and ice colors distributed in a harmonic way, which further enhances your browsing experience.
 
 ---
 
@@ -16,8 +16,8 @@
 
 ### Color Palette 
 
-![c](https://cdn.discordapp.com/attachments/774302890142597160/863092467355746304/unknown.png)
+### See more [DarkBlue Ice](https://github.com/Dedsd/DarkBlue-Ice)
 
 ---
 
-### Made by [Dedsd](https://github.com/Dedsd/)
+Made by [Dedsd](https://github.com/Dedsd/)
